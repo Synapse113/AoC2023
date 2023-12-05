@@ -1,0 +1,4 @@
+{
+	"editor.defaultFormatter": "crystal-lang-tools.crystal-lang",
+	"editor.formatOnSave": true
+}

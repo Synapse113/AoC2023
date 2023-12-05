@@ -5,7 +5,7 @@ DIGITS = {"one" => "1", "two" => "2", "three" => "3", "four" => "4", "five" => "
 
 def convert_to_num(word)
   if word.size > 1
-    return DIGITS[word]
+    	return DIGITS[word]
   end
 
   return word
